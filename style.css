@@ -1,0 +1,96 @@
+* {
+    background-color: #c0c1c1;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1.ab {
+    background-color: #e3e4e5;
+    border: 1px solid #e3e4e5;
+    
+
+}
+
+p {
+    margin: 0px;
+    padding: 5px;
+}
+
+
+
+p.c {
+    background-color: #2b84c6;
+    color: #ffffff;
+
+}
+
+p.d {
+    background-color: #2592d0;
+    color: #ffffff;
+
+}
+
+p.e {
+    background-color: #1e9ed9;
+    color: #ffffff;
+}
+
+p.f {
+    background-color: #38a9e0;
+    color: #ffffff;
+}
+
+p.g {
+    background-color: #57b6e7;
+    color: #ffffff;
+}
+
+p.h {
+    background-color: #72c1ec;
+    color: #ffffff;
+}
+
+p.i {
+    background-color: #8dcbef;
+    color: #ffffff;
+}
+
+p.j {
+    background-color: #1ab585;
+    color: #ffffff;
+}
+
+p.k {
+    background-color: #f5b1cf;
+    color: #ffffff;
+}
+
+p.l {
+    background-color: #f39dc2;
+    color: #ffffff;
+}
+
+p.m {
+    background-color: #f38bb4;
+    color: #ffffff;
+}
+
+p.n {
+    background-color: #f179a6;
+    color: #ffffff;
+}
+
+p.o {
+    background-color: #f16997;
+    color: #ffffff;
+}
+
+p.p {
+    background-color: #f0578b;
+    color: #ffffff;
+}
+
+p.q {
+    background-color: #ec327e;
+    color: #ffffff;
+}
